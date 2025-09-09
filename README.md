@@ -13,31 +13,21 @@ What excites me the most is the feeling of building something useful that can re
 Whether it’s a concrete idea 💡 or just a spark of inspiration 🔥, I’d be happy to collaborate and bring it to life. Let’s build something awesome together! 🚀
 
 ---
-📈 My GitHub Stats!
-![KillianGascon's Stats](https://github-readme-stats.vercel.app/api?username=KillianGascon&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
+📈 **My GitHub Stats**
+
+![KillianGascon's Stats](https://github-readme-stats.vercel.app/api?username=KillianGascon&theme=blue-green&show_icons=true&hide_border=false&count_private=true)  
 ![KillianGascon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KillianGascon&theme=blue-green&hide_border=false)
 
 ---
-My Most used Languages !
+💡 **Most Used Languages**
 
 ![KillianGascon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KillianGascon&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
 
 ---
-⭐ Main repos (actually in prod)
-Actually Co-Worker at :
-- @Beswib: <a href="https://https://beswib.com">https://beswib.com</a>
+⭐ **Main Repositories (in production)**
 
-<!--
-**KillianGascon/KillianGascon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👥 **Currently Co-Worker at**  
+- [Beswib](https://beswib.com)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ **Personal Projects**  
+- [Portfolio](https://portfolio.syntaxlab.fr)
