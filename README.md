@@ -36,28 +36,30 @@ Whether it’s a concrete idea 💡 or just a spark of inspiration 🔥, I’d b
 <!-- Première ligne avec 2 projets -->
 ✨ **Personal Projects**  
 
-<!-- Première ligne avec 2 projets -->
+<!-- Ligne 1 : Portfolio -->
 <p align="center">
   <a href="https://github.com/KillianGascon/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=Portfolio&theme=blue-green" style="width:200px;height:200px;object-fit:cover;margin:5px"/>
-  </a>
-  <a href="https://github.com/For-Hives/la-taverne-des-aventuriers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=For-Hives&repo=la-taverne-des-aventuriers&theme=blue-green" style="width:200px;height:200px;object-fit:cover;margin:5px"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=Portfolio&theme=blue-green" style="width:250px;height:250px;object-fit:cover;margin:10px"/>
   </a>
 </p>
 
-<!-- Triangle inversé avec 3 projets -->
+<!-- Ligne 2 : La taverne des aventuriers -->
 <p align="center">
-  <a href="https://github.com/KillianGascon/HappytoBeesDocumentation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=HappytoBeesDocumentation&theme=blue-green" style="width:200px;height:200px;object-fit:cover;margin:5px"/>
+  <a href="https://github.com/For-Hives/la-taverne-des-aventuriers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=For-Hives&repo=la-taverne-des-aventuriers&theme=blue-green" style="width:250px;height:250px;object-fit:cover;margin:10px"/>
   </a>
 </p>
+
+<!-- Ligne 3 : Happy2Bee projets -->
 <p align="center">
+  <a href="https://github.com/KillianGascon/HappytoBeesDocumentation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=HappytoBeesDocumentation&theme=blue-green" style="width:250px;height:250px;object-fit:cover;margin:10px"/>
+  </a>
   <a href="https://github.com/KillianGascon/Happy2beesFrontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=Happy2beesFrontend&theme=blue-green" style="width:200px;height:200px;object-fit:cover;margin:5px"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=Happy2beesFrontend&theme=blue-green" style="width:250px;height:250px;object-fit:cover;margin:10px"/>
   </a>
   <a href="https://github.com/KillianGascon/HappytoBeesbackend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=HappytoBeesbackend&theme=blue-green" style="width:200px;height:200px;object-fit:cover;margin:5px"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=HappytoBeesbackend&theme=blue-green" style="width:250px;height:250px;object-fit:cover;margin:10px"/>
   </a>
 </p>
 
