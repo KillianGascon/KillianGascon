@@ -33,6 +33,12 @@ Whether it’s a concrete idea 💡 or just a spark of inspiration 🔥, I’d b
 👥 **Currently Co-Worker at**  
 - Actually Co-Founder at @Beswib: <a href="https://beswib.com">https://beswib.com</a>
 
+<p align="center">
+  <a href="https://github.com/For-Hives/beswib">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=For-Hives&repo=beswib&theme=blue-green" />
+  </a>
+</p>
+
 <!-- Première ligne avec 2 projets -->
 ✨ **Personal Projects**  
 
