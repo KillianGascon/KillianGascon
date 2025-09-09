@@ -36,6 +36,7 @@ Whether it’s a concrete idea 💡 or just a spark of inspiration 🔥, I’d b
 <!-- Première ligne avec 2 projets -->
 ✨ **Personal Projects**  
 
+Portfolio
 <!-- Ligne 1 : Portfolio -->
 <p align="center">
   <a href="https://github.com/KillianGascon/Portfolio">
@@ -43,6 +44,7 @@ Whether it’s a concrete idea 💡 or just a spark of inspiration 🔥, I’d b
   </a>
 </p>
 
+Other Websites
 <!-- Ligne 2 : La taverne des aventuriers -->
 <p align="center">
   <a href="https://github.com/For-Hives/la-taverne-des-aventuriers">
@@ -50,6 +52,7 @@ Whether it’s a concrete idea 💡 or just a spark of inspiration 🔥, I’d b
   </a>
 </p>
 
+HappytoBee
 <!-- Ligne 3 : Happy2Bee projets -->
 <p align="center">
   <a href="https://github.com/KillianGascon/Happy2beesFrontend">
