@@ -34,4 +34,4 @@ Whether it’s a concrete idea 💡 or just a spark of inspiration 🔥, I’d b
 - Actually Co-Founder at @Beswib: <a href="https://beswib.com">https://beswib.com</a>
 
 ✨ **Personal Projects**  
-- [Portfolio](https://portfolio.syntaxlab.fr)
+[![KillianGascon/Portfolio - GitHub](https://gh-card.dev/repos/KillianGascon/Portfolio.svg)](https://github.com/KillianGascon/Portfolio)
