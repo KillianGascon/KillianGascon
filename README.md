@@ -23,7 +23,9 @@ Whether it’s a concrete idea 💡 or just a spark of inspiration 🔥, I’d b
 
 ---
 💡 **Most Used Languages**
-
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=KillianGascon&theme=blue-green&show_icons=true&hide_border=false&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=KillianGascon&theme=blue-green&show_icons=true&hide_border=false&layout=compact)" alt="Stats" height="165"/>
+</p>
 ![KillianGascon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KillianGascon&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
 
 ---
