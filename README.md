@@ -48,15 +48,15 @@ Whether it’s a concrete idea 💡 or just a spark of inspiration 🔥, I’d b
 <!-- Triangle inversé avec 3 projets -->
 <p align="center">
   <a href="https://github.com/KillianGascon/HappytoBeesDocumentation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=HappytoBeesDocumentation&theme=blue-green" width="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=HappytoBeesDocumentation&theme=blue-green" width="100%"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/KillianGascon/Happy2beesFrontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=Happy2beesFrontend&theme=blue-green" width="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=Happy2beesFrontend&theme=blue-green" width="50%"/>
   </a>
   <a href="https://github.com/KillianGascon/HappytoBeesbackend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=HappytoBeesbackend&theme=blue-green" width="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=HappytoBeesbackend&theme=blue-green" width="50%"/>
   </a>
 </p>
 
