@@ -34,4 +34,9 @@ Whether it’s a concrete idea 💡 or just a spark of inspiration 🔥, I’d b
 - Actually Co-Founder at @Beswib: <a href="https://beswib.com">https://beswib.com</a>
 
 ✨ **Personal Projects**  
-[![KillianGascon/Portfolio - GitHub](https://gh-card.dev/repos/KillianGascon/Portfolio.svg)](https://github.com/KillianGascon/Portfolio)
+<p align="center">
+    <a href="https://github.com/KillianGascon/Portfolio">
+        <img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=KillianGascon&repo=react-portfolio&theme=transparent&show_icons=false" alt="react-portfolio">
+    </a>
+</p>
+
