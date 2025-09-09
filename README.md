@@ -1,7 +1,7 @@
-## Hi ! I'm <a href="https://portfolio.syntaxlab.fr">Killian</a> !
+# Hi ! I'm <a href="https://portfolio.syntaxlab.fr">Killian</a> !
 
 ---
-💻 About me  
+##💻 About me  
 
 I’m Killian, a student and passionate developer, currently studying computer science.  
 What drives me? Using technology to create, learn, and make ideas come to life 🚀  
@@ -12,7 +12,7 @@ What excites me the most is the feeling of building something useful that can re
 
 Whether it’s a concrete idea 💡 or just a spark of inspiration 🔥, I’d be happy to collaborate and bring it to life. Let’s build something awesome together! 🚀
 
-
+---
 
 ![KillianGascon's Stats](https://github-readme-stats.vercel.app/api?username=KillianGascon&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![KillianGascon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KillianGascon&theme=dracula&hide_border=false)
