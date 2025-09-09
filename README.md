@@ -1,4 +1,5 @@
-## Hi ! I'm <a href="https://portfolio.syntaxlab.fr" style="color:#00FF00;">Killian</a> !
+## Hi ! I'm [![Killian](https://img.shields.io/badge/Killian-00FF00?style=for-the-badge)](https://portfolio.syntaxlab.fr)
+
 
 ![KillianGascon's Stats](https://github-readme-stats.vercel.app/api?username=KillianGascon&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![KillianGascon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KillianGascon&theme=dracula&hide_border=false)
