@@ -34,10 +34,29 @@ Whether it’s a concrete idea 💡 or just a spark of inspiration 🔥, I’d b
 - Actually Co-Founder at @Beswib: <a href="https://beswib.com">https://beswib.com</a>
 
 ✨ **Personal Projects**  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=Portfolio&theme=blue-green)](https://github.com/KillianGascon/Portfolio)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=For-Hives&repo=la-taverne-des-aventuriers&theme=blue-green)](https://github.com/For-Hives/la-taverne-des-aventuriers)
+<!-- Première ligne avec 2 projets -->
+<p align="center">
+  <a href="https://github.com/KillianGascon/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=Portfolio&theme=blue-green" width="200"/>
+  </a>
+  <a href="https://github.com/For-Hives/la-taverne-des-aventuriers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=For-Hives&repo=la-taverne-des-aventuriers&theme=blue-green" width="200"/>
+  </a>
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=HappytoBeesDocumentation&theme=blue-green)](https://github.com/KillianGascon/HappytoBeesDocumentation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=Happy2beesFrontend&theme=blue-green)](https://github.com/KillianGascon/Happy2beesFrontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=HappytoBeesbackend&theme=blue-green)](https://github.com/KillianGascon/HappytoBeesbackend)
+<!-- Triangle inversé avec 3 projets -->
+<p align="center">
+  <a href="https://github.com/KillianGascon/HappytoBeesDocumentation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=HappytoBeesDocumentation&theme=blue-green" width="200"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/KillianGascon/Happy2beesFrontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=Happy2beesFrontend&theme=blue-green" width="200"/>
+  </a>
+  <a href="https://github.com/KillianGascon/HappytoBeesbackend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=HappytoBeesbackend&theme=blue-green" width="200"/>
+  </a>
+</p>
+
