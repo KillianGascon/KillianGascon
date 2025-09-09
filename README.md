@@ -1,6 +1,12 @@
 ## Hi ! I'm <a href="https://portfolio.syntaxlab.fr">Killian</a> !
+---
+
+<!--- todo: créer illu pour bannière style floral palette verte --->
 
 ---
+
+<!--- todo: créer carte illu pour moi --->
+
 💻 About me  
 
 I’m Killian, a student and passionate developer, currently studying computer science.  
