@@ -39,4 +39,5 @@ Whether it’s a concrete idea 💡 or just a spark of inspiration 🔥, I’d b
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=For-Hives&repo=la-taverne-des-aventuriers&theme=blue-green)](https://github.com/For-Hives/la-taverne-des-aventuriers)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=HappytoBeesDocumentation&theme=blue-green)](https://github.com/KillianGascon/HappytoBeesDocumentation)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=Happy2beesFrontend&theme=blue-green)](https://github.com/KillianGascon/Happy2beesFrontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=HappytoBeesbackend&theme=blue-green)](https://github.com/KillianGascon/HappytoBeesbackend)
