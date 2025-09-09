@@ -15,7 +15,8 @@ Whether it’s a concrete idea 💡 or just a spark of inspiration 🔥, I’d b
 ---
 📈 My GitHub Stats!
 [KillianGascon's Stats](https://github-readme-stats.vercel.app/api?username=KillianGascon&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
-![KillianGascon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KillianGascon&theme=blue-green&hide_border=false)
+[KillianGascon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KillianGascon&theme=blue-green&hide_border=false)
+
 ---
 My Most used Languages !
 
