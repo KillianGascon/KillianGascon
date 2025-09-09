@@ -34,5 +34,5 @@ Whether it’s a concrete idea 💡 or just a spark of inspiration 🔥, I’d b
 - Actually Co-Founder at @Beswib: <a href="https://beswib.com">https://beswib.com</a>
 
 ✨ **Personal Projects**  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=Portfolio)](https://github.com/KillianGascon/Portfolio)
 
