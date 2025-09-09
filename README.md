@@ -1,4 +1,4 @@
-## Hi ! I'm <a href="https://portfolio.syntaxlab.fr" style="color:green;">Killian</a> !
+## Hi ! I'm <a href="https://portfolio.syntaxlab.fr" style="color:#00FF00;">Killian</a> !
 
 
 
