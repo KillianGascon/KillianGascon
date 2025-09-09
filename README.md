@@ -32,7 +32,7 @@ Whether it’s a concrete idea 💡 or just a spark of inspiration 🔥, I’d b
 ⭐ **Main Repositories (in production)**
 
 👥 **Currently Co-Worker at**  
-- [Beswib](https://beswib.com)  
+- Actually Co-Founder at @Beswib: <a href="https://beswib.com">https://beswib.com</a>
 
 ✨ **Personal Projects**  
 - [Portfolio](https://portfolio.syntaxlab.fr)
