@@ -39,27 +39,25 @@ Whether it’s a concrete idea 💡 or just a spark of inspiration 🔥, I’d b
   </a>
 </p>
 
-<!-- Première ligne avec 2 projets -->
+---
+
 ✨ **Personal Projects**  
 
-Portfolio
-<!-- Ligne 1 : Portfolio -->
+💼 **Portfolio**  
 <p align="center">
   <a href="https://github.com/KillianGascon/Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=Portfolio&theme=blue-green"/>
   </a>
 </p>
 
-Other Websites
-<!-- Ligne 2 : La taverne des aventuriers -->
+🌐 **Other Websites**  
 <p align="center">
   <a href="https://github.com/For-Hives/la-taverne-des-aventuriers">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=For-Hives&repo=la-taverne-des-aventuriers&theme=blue-green" />
   </a>
 </p>
 
-HappytoBee
-<!-- Ligne 3 : Happy2Bee projets -->
+🐝 **Happy2Bee Projects**  
 <p align="center">
   <a href="https://github.com/KillianGascon/Happy2beesFrontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillianGascon&repo=Happy2beesFrontend&theme=blue-green"/>
